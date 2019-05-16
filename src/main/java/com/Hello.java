@@ -27,4 +27,12 @@ public class Hello {
         return String.valueOf(this.i);
     }
 
+    public int subMethod(int a, int b) {
+        if (a != 0) {
+            return a - b;
+        } else {
+            return b - a;
+        }
+    }
+
 }
