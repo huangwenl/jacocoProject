@@ -3,7 +3,6 @@ import org.junit.Test;
 import com.Hello;
 
 import java.util.ArrayList;
-import java.util.List;
 
 
 public class HelloTest {
